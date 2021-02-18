@@ -1,0 +1,6 @@
+2021-02-18 09:22:26,608 WARN  [SoapUI] Missing folder [C:\Laptop Data\Project\Training SDET\REST Assignment\my-app\ext] for external libraries
+2021-02-18 09:22:26,831 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AlapatiKoteswaraJyot\soapui-settings.xml]
+2021-02-18 09:22:28,671 INFO  [WsdlProject] Loaded project from [file:/C:/Laptop%20Data/Project/Training%20SDET/REST%20Assignment/my-app/REST-Assignment-soapui-project.xml]
+2021-02-18 09:22:28,879 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST Assignment]
+2021-02-18 09:22:28,881 INFO  [SoapUITestCaseRunner] Running Project [REST Assignment], runType = SEQUENTIAL
+2021-02-18 09:22:28,887 INFO  [SoapUITestCaseRunner] Project [REST Assignment] finished with status [FINISHED] in 0ms
